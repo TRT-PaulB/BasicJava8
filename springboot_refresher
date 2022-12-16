@@ -1,0 +1,8 @@
+
+./mvnw spring-boot:run
+mvn spring-boot:run
+
+
+For webapp basic revision:
+https://spring.io/guides/gs/spring-boot/
+
