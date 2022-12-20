@@ -1,4 +1,5 @@
 package com.rev.BasicJava8.ref;
+import com.rev.BasicJava8.ref.groupingBy.GroupByForBatches;
 import com.rev.BasicJava8.ref.groupingBy.GroupByGroundsmanJob;
 
 public class Qis {
@@ -7,7 +8,8 @@ public class Qis {
     }
 
     private void init() {
-        new GroupByGroundsmanJob();
+        // new GroupByGroundsmanJob();
+        new GroupByForBatches();
     }
 
 }

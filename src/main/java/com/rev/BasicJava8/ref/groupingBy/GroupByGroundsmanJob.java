@@ -11,7 +11,7 @@ import static java.util.stream.Collectors.groupingBy;
 public class GroupByGroundsmanJob {
 
     public GroupByGroundsmanJob() {
-
+        golfJobComparator();
     }
     private List<JobType> j8GroupingBy() {
         var golfJobs = Arrays.asList(
